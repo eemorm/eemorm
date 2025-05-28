@@ -10,7 +10,7 @@ Rainy Season is a work in progress, and we are very excited!
 
 I also use:
 
-[![My Skills](https://skillicons.dev/icons?i=unity,windows,csharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,windows,cs)](https://skillicons.dev)
 
 <!--
 **eemorm/eemorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
