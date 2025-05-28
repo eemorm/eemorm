@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am using these tools for Rainy Season:
+
+[![My Skills](https://skillicons.dev/icons?i=ableton,bash,cpp,github,py,ubuntu,vscode)](https://skillicons.dev)
+
 <!--
 **eemorm/eemorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
